@@ -18,7 +18,7 @@
 
                                <v-card flat>
                                    <v-card-text class="pa-2">
-                                       <h2 class="text-md-center">Sign into Techadmin</h2>
+                                       <h2 class="text-md-center">Sign into Technoarete</h2>
                                    </v-card-text>
                                    <v-card-text class="pa-2">
                                        <p class="text-md-center">Please Sign into techadmin to access your profile.
